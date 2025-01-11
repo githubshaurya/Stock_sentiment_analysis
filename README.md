@@ -98,7 +98,7 @@ backtesting period. This low number of trades suggests
 the strategy is relatively selective 
 4. A win rate of 55.55% indicates that slightly more than 
 half of the trades were successful, which is a positive 
-outcome. 
+outcome.
 5. A value above 1 indicates that the strategy is profitable, 
 and a value of 1.84234 is quite good, suggesting that the 
 strategy generates almost twice as much profit as it 
@@ -112,4 +112,6 @@ Overall, the strategy does relatively lesser number of trades
 and also generates only mediocre returns which indicates its 
 risk-free attitude. 
 As most of the people in India are middle and lower-middle 
-class, the strategy is highly suited for them. 
+class, the strategy is highly suited for them.
+![finclub_certificate](https://github.com/user-attachments/assets/af6e82f6-be10-4b76-9dcd-f00b904009e4)
+
